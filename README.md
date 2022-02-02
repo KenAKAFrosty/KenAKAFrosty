@@ -4,11 +4,14 @@
 <div align="center">
 <img src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" />
 </div>
+
 - 🔭 I’m currently working on **my battle 🤺 snake 🐍**
 
 - 👯 I’m looking to collaborate on **projects with a focus on accessibility and real-world utility**
 
 - 💬 Ask me about **dynamically adapting questionnaires**
+
+- 👀 Always looking for **insight on code readability**
 <p align="left">
 </p>
 
