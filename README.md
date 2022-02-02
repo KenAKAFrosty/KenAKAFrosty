@@ -20,6 +20,6 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenakafrosty&show_icons=true&locale=en&layout=compact" alt="kenakafrosty" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenakafrosty&show_icons=true&locale=en" alt="kenakafrosty" /></p>
+<p>&nbsp;<img align="center" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=kenakafrosty&show_icons=true&locale=en" alt="kenakafrosty" /></p>
 
 </div>
