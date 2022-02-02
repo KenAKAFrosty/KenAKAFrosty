@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate on **projects with a focus on accessibility and real-world utility**
 
 - 💬 Ask me about **dynamically adapting questionnaires**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
