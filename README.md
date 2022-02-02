@@ -4,8 +4,9 @@
 <div align="center">
 <img src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" width="500px" />
 </div>
+- 🌐 I'm a **full-stack software engineer with a soft spot for UX**
 
-- 🔭 I’m currently working on **my battle 🤺 snake 🐍**
+- 🔭 Currently I'm working on my **battle 🤺 snake 🐍**
 
 - 👯 I’m looking to collaborate on **projects with a focus on accessibility and real-world utility**
 
