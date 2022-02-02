@@ -2,7 +2,7 @@
 <h3 align="center">Thanks for stopping in ☕</h3>
 
 <div align="center">
-<img src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" width="300px" />
+<img src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" width="500px" />
 </div>
 
 - 🔭 I’m currently working on **my battle 🤺 snake 🐍**
