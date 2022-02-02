@@ -1,6 +1,8 @@
 <h1 align="center">Welcome in 👋 I'm Ken!</h1>
 <h3 align="center">Thanks for stopping in ☕</h3>
 
+<img src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" />
+
 - 🔭 I’m currently working on **my ⚔ battle 🐍 snake**
 
 - 👯 I’m looking to collaborate on **projects with a focus on accessibility and real-world utility**
