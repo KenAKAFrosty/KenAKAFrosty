@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, I'm Ken!</h1>
+<h1 align="center">Welcome in 👋 I'm Ken!</h1>
 <h3 align="center">Thanks for stopping in ☕</h3>
 
 - 🔭 I’m currently working on **my ⚔ battle 🐍 snake**
