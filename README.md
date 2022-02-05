@@ -1,5 +1,5 @@
 <h1 align="center">Welcome in 👋 I'm Ken!</h1>
-<h3 align="center">Thanks for stopping in ☕💻</h3>
+<h3 align="center">Thanks for stopping by ☕💻</h3>
 
 <div align="center">
 <img src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" width="500px" />
