@@ -7,7 +7,7 @@
 
 - 🌐 I'm a **full-stack software engineer with a soft spot for UX**
 
-- 🔭 Currently I'm working on my *🛠3rd-party integrations to livestream-centric games🎮**
+- 🔭 Currently I'm working on my **🛠3rd-party integrations to livestream-centric games🎮**
 
 - 👯 I’m looking to collaborate on **projects with a focus on accessibility and real-world utility**
 
