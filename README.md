@@ -1,7 +1,7 @@
 <h1 align="center">Welcome in 👋 I'm Ken!</h1>
 <div align="center">
 <a href="https://frostytools.com/stream/kenakafrosty">
-<img src="https://frostytools.com/stream/kenakafrosty/preview/0.png" width="768px" />
+<img src="https://frostytools.com/stream/kenakafrosty/preview/0.png" width="1024px" />
 </a>
 </div>
 
