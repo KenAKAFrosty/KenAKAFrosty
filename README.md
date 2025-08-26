@@ -1,18 +1,12 @@
 <h1 align="center">Welcome in 👋 I'm Ken!</h1>
-<h3 align="center">Thanks for stopping by ☕💻</h3>
-
 <div align="center">
-<img src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" width="500px" />
+<a href="https://frostytools.com/stream/kenakafrosty">
+<img src="https://frostytools.com/stream/kenakafrosty/preview/0.png" width="768px" />
+</a>
 </div>
 
-- 🌐 I'm a **full-stack software engineer with a soft spot for UX**
-
-- 🔭 Currently I'm working on **🛠3rd-party integrations to livestream-centric games🎮**
-
-- 👯 I’m looking to collaborate on **projects with a focus on accessibility and real-world utility**
-
-- 💬 Ask me about **dynamically adapting questionnaires**
-
-- 👀 Always looking for **insight on code readability**
-<p align="left">
-</p>
+- 🔭 Currently I'm working on **🛠3rd-party integrations to livestream platforms 📺**
+- Creator of [FrostyTools](https://frostytools.com) - AI Twitch Chat Bot & Other Streaming Tools
+  - 💝 Started as a love project for my partner's stream - other streamers wanted in!
+- 🧠 Believer that the best tools enhance human creativity, not replace it
+- 💬 Ask me about **ethical AI practices** or for a fun blast from the past: **dynamically adapting questionnaires**
